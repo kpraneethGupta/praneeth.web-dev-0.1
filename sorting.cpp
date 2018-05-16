@@ -1,4 +1,4 @@
-Gupta 107117052
+Praneeth 107117052
 BUBBLE SORT
 
 #include<stdio.h>
